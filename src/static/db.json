@@ -1,0 +1,89 @@
+{
+    "products": [
+      {
+        "id": 1,
+        "name": "Pillow",
+        "image": "https://vinova-furstore.myshopify.com/cdn/shop/files/img-9-1_580x.jpg?v=1703662419"
+      },
+      {
+        "id": 2,
+        "name": "Armchair",
+        "image": "https://vinova-furstore.myshopify.com/cdn/shop/files/img-9-2_580x.jpg?v=1703662419"
+      },
+      {
+        "id": 3,
+        "name": "Side Table",
+        "image": "https://vinova-furstore.myshopify.com/cdn/shop/files/img-9-3_580x.jpg?v=1703662759"
+      }
+    ],
+    "featuredProducts": [
+      {
+        "id": 1,
+        "name": "Diamond Halo Stud Massa",
+        "price": "$450.00",
+        "image": "https://vinova-furstore.myshopify.com/cdn/shop/products/13a_360x.jpg?v=1695803456",
+        "rating": 4.5
+      },
+      {
+        "id": 2,
+        "name": "Diamond Halo Stud Monte",
+        "price": "$236.00",
+        "oldPrice": "$315.00",
+        "image": "https://vinova-furstore.myshopify.com/cdn/shop/products/15a_360x.jpg?v=1695803744",
+        "rating": 4
+      },
+      {
+        "id": 3,
+        "name": "Acamond Halo Stud Conse",
+        "price": "$198.00",
+        "oldPrice": "$550.00",
+        "image": "https://vinova-furstore.myshopify.com/cdn/shop/products/3a_360x.jpg?v=1694678220",
+        "rating": 5
+      },
+      {
+        "id": 4,
+        "name": "Viamond Halo Stud Donec",
+        "price": "$409.00",
+        "oldPrice": "$775.00",
+        "image": "https://vinova-furstore.myshopify.com/cdn/shop/products/7a_360x.jpg?v=1694678092",
+        "rating": 3.5
+      }
+      ,
+      {
+        "id": 5,
+        "name": "Viamond Halo Stud Donec",
+        "price": "$409.00",
+        "oldPrice": "$775.00",
+        "image": "https://vinova-furstore.myshopify.com/cdn/shop/products/9a_360x.jpg?v=1694678010",
+        "rating": 3.5
+      }
+      ,
+      {
+        "id": 6,
+        "name": "Viamond Halo Stud Donec",
+        "price": "$409.00",
+        "oldPrice": "$775.00",
+        "image": "https://vinova-furstore.myshopify.com/cdn/shop/products/16a_360x.jpg?v=1694678119",
+        "rating": 3.5
+      }
+      ,
+      {
+        "id": 7,
+        "name": "Viamond Halo Stud Donec",
+        "price": "$409.00",
+        "oldPrice": "$775.00",
+        "image": "https://vinova-furstore.myshopify.com/cdn/shop/products/17a_360x.jpg?v=1694678083",
+        "rating": 3.5
+      }
+      ,
+      {
+        "id": 8,
+        "name": "Viamond Halo Stud Donec",
+        "price": "$409.00",
+        "oldPrice": "$775.00",
+        "image": "https://vinova-furstore.myshopify.com/cdn/shop/products/22a_360x.jpg?v=1694678128",
+        "rating": 3.5
+      }
+    ]
+  }
+  
